@@ -1,0 +1,2 @@
+N = int(input('Digite um número: '))
+print('A tabuada do {} é:\n{}x1={}\n{}x2={}\n{}x3={}\n{}x4={}\n{}x5={}\n{}x6={}\n{}x7={}\n{}x8={}\n{}x9={}\n{}x10={}'.format(N,N,N*1,N,N*2,N,N*3,N,N*4,N,N*5,N,N*6,N,N*7,N,N*8,N,N*9,N,N*10))
